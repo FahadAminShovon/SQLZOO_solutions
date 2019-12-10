@@ -11,7 +11,20 @@ Here are my solutions for the questions from [SQLZOO](https://sqlzoo.net/)
 
 # Quizes
 
-* [Quiz 1](#quiz-1)
+* [Quiz 1](https://sqlzoo.net/wiki/SELECT_Quiz)-[solve](#quiz-1)
+* [Quiz 2](https://sqlzoo.net/wiki/BBC_QUIZ)-[solve](#quiz-2)
+* [Quiz 3](https://sqlzoo.net/wiki/Nobel_Quiz)-[solve](#quiz-3)
+* [Quiz 4](https://sqlzoo.net/wiki/Nested_SELECT_Quiz)-[solve](#quiz-4)
+
 
 ## quiz 1
 ![Quiz 1](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz1.png)
+
+## quiz 2
+![Quiz 1](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz2.png)
+
+## quiz 3
+![Quiz 1](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz3.png)
+
+## quiz 4
+![Quiz 1](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz4.png)
