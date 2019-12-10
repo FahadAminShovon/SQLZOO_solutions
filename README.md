@@ -11,7 +11,7 @@ Here are my solutions for the questions from [SQLZOO](https://sqlzoo.net/)
 
 # Quizes
 
-
+* [Quiz 1](#quiz-1)
 
 ## quiz 1
 ![Quiz 1](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz1.png)
