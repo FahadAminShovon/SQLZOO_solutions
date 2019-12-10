@@ -8,13 +8,15 @@ Here are my solutions for the questions from [SQLZOO](https://sqlzoo.net/)
 2. [SELECT from WORLD Tutorial](https://sqlzoo.net/wiki/SELECT_basics) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve2.sql)
 3. [SELECT from Nobel Tutorial](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve3.sql)
 
+3. [SELECT within SELECT Tutorial](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve4.sql)
+
 
 # Quizes
 
-* [Quiz 1](https://sqlzoo.net/wiki/SELECT_Quiz)-[solve](#quiz-1)
-* [Quiz 2](https://sqlzoo.net/wiki/BBC_QUIZ)-[solve](#quiz-2)
-* [Quiz 3](https://sqlzoo.net/wiki/Nobel_Quiz)-[solve](#quiz-3)
-* [Quiz 4](https://sqlzoo.net/wiki/Nested_SELECT_Quiz)-[solve](#quiz-4)
+* [SELECT Quiz](https://sqlzoo.net/wiki/SELECT_Quiz)-[solve](#quiz-1)
+* [BBC QUIZ](https://sqlzoo.net/wiki/BBC_QUIZ)-[solve](#quiz-2)
+* [Nobel Quiz](https://sqlzoo.net/wiki/Nobel_Quiz)-[solve](#quiz-3)
+* [Nested SELECT Quiz](https://sqlzoo.net/wiki/Nested_SELECT_Quiz)-[solve](#quiz-4)
 
 
 ## quiz 1
