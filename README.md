@@ -19,4 +19,6 @@ Here are my solutions for the questions from [SQLZOO](https://sqlzoo.net/)
 * [Nobel Quiz](https://sqlzoo.net/wiki/Nobel_Quiz) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz3.png)
 * [Nested SELECT Quiz](https://sqlzoo.net/wiki/Nested_SELECT_Quiz) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz4.png)
 * [SUM and COUNT Quiz](https://sqlzoo.net/wiki/Nested_SELECT_Quiz) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz5.png)
+* [JOIN Quiz](https://sqlzoo.net/wiki/JOIN_Quiz) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz6.png)
+
 
