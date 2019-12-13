@@ -20,5 +20,7 @@ Here are my solutions for the questions from [SQLZOO](https://sqlzoo.net/)
 * [Nested SELECT Quiz](https://sqlzoo.net/wiki/Nested_SELECT_Quiz) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz4.png)
 * [SUM and COUNT Quiz](https://sqlzoo.net/wiki/Nested_SELECT_Quiz) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz5.png)
 * [JOIN Quiz](https://sqlzoo.net/wiki/JOIN_Quiz) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz6.png)
+* [JOIN Quiz 2](https://sqlzoo.net/wiki/JOIN_Quiz_2) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/quizes/Quiz7.png)
+
 
 
