@@ -10,7 +10,7 @@ Here are my solutions for the questions from [SQLZOO](https://sqlzoo.net/)
 4. [SELECT within SELECT Tutorial](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve4.sql)
 5. [SUM and COUNT](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve5.sql)
 6. [The JOIN operation](https://sqlzoo.net/wiki/The_JOIN_operation) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve6.sql)
-
+7. [More JOIN operations](https://sqlzoo.net/wiki/More_JOIN_operations) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve7.sql)
 
 # Quizes
 
