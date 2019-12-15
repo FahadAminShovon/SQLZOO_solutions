@@ -11,6 +11,7 @@ Here are my solutions for the questions from [SQLZOO](https://sqlzoo.net/)
 5. [SUM and COUNT](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve5.sql)
 6. [The JOIN operation](https://sqlzoo.net/wiki/The_JOIN_operation) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve6.sql)
 7. [More JOIN operations](https://sqlzoo.net/wiki/More_JOIN_operations) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve7.sql)
+8. [Using Null](https://sqlzoo.net/wiki/Using_Null) - [solve](https://github.com/FahadAminShovon/SQLZOO_solutions/blob/master/solves/solve8.sql)
 
 # Quizes
 
